@@ -14,6 +14,7 @@ CORS(app)
 api_url = "https://cdkirby-api-front-end.azurewebsites.net"  # base url for API endpoints
 
 
+
 # main index page route
 @app.route("/")
 def index():
